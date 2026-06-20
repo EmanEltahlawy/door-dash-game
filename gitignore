@@ -1,0 +1,15 @@
+# Compiled output
+bin/
+*.class
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
